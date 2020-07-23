@@ -62,7 +62,7 @@ exports.qtuminfo = {
   rpc: {
     protocol: 'http',
     host: 'localhost',
-    port: 3889,
+    port: 41111,
     user: 'user',
     password: 'password'
   }
